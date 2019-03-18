@@ -1,0 +1,11 @@
+[Mon Mar 18 15:27:14 2019] 127.0.0.1:52408 [200]: /
+[Mon Mar 18 15:27:14 2019] 127.0.0.1:52413 [404]: /style.css - No such file or directory
+[Mon Mar 18 15:27:14 2019] 127.0.0.1:52415 [404]: /bundle.js - No such file or directory
+[Mon Mar 18 15:27:14 2019] 127.0.0.1:52414 [404]: /environment.js - No such file or directory
+[Mon Mar 18 15:27:14 2019] 127.0.0.1:52416 [404]: /bundle.js - No such file or directory
+[Mon Mar 18 15:27:30 2019] 127.0.0.1:52422 [200]: /style.css
+[Mon Mar 18 15:29:07 2019] 127.0.0.1:52512 [200]: /
+[Mon Mar 18 15:29:07 2019] 127.0.0.1:52516 [200]: /style.css
+[Mon Mar 18 15:29:07 2019] 127.0.0.1:52518 [200]: /bundle.js
+[Mon Mar 18 15:29:07 2019] 127.0.0.1:52517 [404]: /environment.js - No such file or directory
+[Mon Mar 18 15:29:08 2019] 127.0.0.1:52519 [200]: /bundle.js.map

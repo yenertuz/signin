@@ -1,0 +1,32 @@
+{
+  "name": "signin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack --mode=development --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yenertuz/signin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yenertuz/signin/issues"
+  },
+  "homepage": "https://github.com/yenertuz/signin#readme",
+  "dependencies": {
+	"@babel/core": "latest",
+	"@babel/preset-env": "latest",
+	"@babel/preset-react": "latest",
+	"babel-loader": "latest",
+	"react": "latest",
+	"react-dom": "latest",
+	"webpack": "latest",
+	"webpack-cli": "latest",
+	"jquery": "latest"
+	}
+}
